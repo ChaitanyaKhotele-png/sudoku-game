@@ -152,7 +152,7 @@ public class Sudoku {
                 System.out.println("No solution exists.");
             }
         }
-        scanner.close();
+        scanner.close();//clossing scanner class 
     }
 }
 # sudoku-game
